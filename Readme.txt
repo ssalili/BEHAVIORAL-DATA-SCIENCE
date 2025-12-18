@@ -1,3 +1,7 @@
+Codes used in this book:
+BEHAVIORAL DATA SCIENCE: Decoding Human Behavior: Insights and Predictions through Artificial Intelligence
+Amazon linke: https://tinyurl.com/4d6r3pe8
+
 *** Updating the "lifetimes" Library
 
 To update the "lifetimes" Python library with the provided updated version, follow these steps:
