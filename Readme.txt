@@ -1,6 +1,6 @@
 Codes used in this book:
 BEHAVIORAL DATA SCIENCE: Decoding Human Behavior: Insights and Predictions through Artificial Intelligence
-Amazon linke: https://tinyurl.com/4d6r3pe8
+Amazon link: https://tinyurl.com/4d6r3pe8
 
 *** Updating the "lifetimes" Library
 
